@@ -1,0 +1,2 @@
+def calcular_media_lista (lista):
+    return (sum(lista) / len (lista))
