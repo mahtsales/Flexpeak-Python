@@ -4,3 +4,5 @@ for nome in peoples [:]: #vai removendo de maneira gradativa
     if nome == 'Bianca':
         peoples.remove(nome)
         print(peoples)
+
+
