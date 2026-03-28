@@ -1,6 +1,6 @@
 pessoas = {
     "pessoa1": {
-        'nome: ' 'Davi Matheus',
+        "nome: " 'Davi Matheus',
         'idade: ' '21',
         'gênero: ' 'M'
         'profissão: ' 'Backend Developer'
@@ -37,4 +37,3 @@ pessoas = {
     },
 }
 
-print(pessoas['pessoa1']) 
